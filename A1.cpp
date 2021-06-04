@@ -1,13 +1,3 @@
-/*----------------------------------------------------------------------------------------------------------------------------
-Program Name: Vertical Additive Symmetric Matrix
-Date: 2021-06-03
-Author: Julie Manuel
-Purpose: This program reads in matrixes from a file and sorts, adds, and checks for veritcal additive symetry.
-Module Design: This program uses for and if loops to read and use data in the "matrixes.txt" file.
-Inputs: "matrixes.txt" file
-Outputs: matrixes, vertical sum of matrixes, if vertical additive is symmetrical
-----------------------------------------------------------------------------------------------------------------------------*/
-
 #include <string>
 #include <iostream>
 #include <fstream>
