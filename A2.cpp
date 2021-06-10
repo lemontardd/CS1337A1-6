@@ -1,12 +1,3 @@
-/*----------------------------------------------------------------------------------------------------------------------------
-Program Name: Sort by Pointers
-Date: 2021-06-10
-Author: Julia Manuel
-Purpose: This program reads in file and sorts array using pointers.
-Inputs: "arrayData.txt" file
-Outputs: sorted pointers and array elements
-----------------------------------------------------------------------------------------------------------------------------*/
-
 #include <stdio.h>
 #include <iomanip>
 #include <string>
