@@ -1,13 +1,3 @@
-/*----------------------------------------------------------------------------------------------------------------------------
-Program Name: Satellite Assignment
-Date: 2021-06-16
-Author: Julia Manuel
-Purpose: designed to operate in a satellite amd reads simulated satellite telemetry from a file, stores the input data in 
-memory, performs a basic summary analysis, and sends information to a ground station channel stream for display.
-Inputs: "inputDataAntenna.txt" file
-Outputs: summary information
-----------------------------------------------------------------------------------------------------------------------------*/
-
 #include <string>
 #include <iostream>
 #include <fstream>
