@@ -1,12 +1,3 @@
-/*----------------------------------------------------------------------------------------------------------------------------
-Program Name: Bank Accounts
-Date: 2021-07-21
-Author: Julia Manuel
-Purpose: Uses object oriented dsign to design accounts with transaction processing at a bank.
-Inputs: "InfoBankAccounts.txt", "InfoBankAccountsTransactions.txt", "InfoBankConfig.txt" files
-Outputs: Checkings, interests, and savings account data.
-----------------------------------------------------------------------------------------------------------------------------*/
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
