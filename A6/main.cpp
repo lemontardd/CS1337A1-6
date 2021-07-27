@@ -1,10 +1,3 @@
-/*----------------------------------------------------------------------------------------------------------------------------
-Program Name: Factorial Overflow Detection
-Date: 2021-07-26
-Author: Julia Manuel
-Purpose: Creates a calculation class that has a template parameter that indicates the data type to do the calculations on.
-----------------------------------------------------------------------------------------------------------------------------*/
-
 #include <chrono>
 #include <limits>
 #include <locale>
